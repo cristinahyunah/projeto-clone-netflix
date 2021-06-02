@@ -1,0 +1,26 @@
+@media screen and (max-width: 700px) {
+    header .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .botao {
+        margin-top: 5px;
+        width: 300px;
+    }
+}
+
+@media screen and (min-widht: 1000px){
+    .descricao {
+        width: 50%;
+    }
+}
+
+/* tentar ajeitar o tamanho maximizada
+
+@media screen and (max-widht: 1000px){
+    .carrosel.filme {
+        padding-top: 20px;
+}
+} */
+
