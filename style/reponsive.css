@@ -5,22 +5,20 @@
     }
 
     .botao {
-        margin-top: 5px;
+        margin-top: 20px;
         width: 300px;
     }
 }
 
-@media screen and (min-widht: 1000px){
+@media screen and (min-width: 1000px){
     .descricao {
         width: 50%;
     }
 }
 
-/* tentar ajeitar o tamanho maximizada
-
-@media screen and (max-widht: 1000px){
-    .carrosel.filme {
-        padding-top: 20px;
+@media screen and (min-width: 1000px){
+    .box-filme {
+        margin: 40px ;
 }
-} */
+}
 
